@@ -9,9 +9,5 @@ class Game
   end
 end
 
-puts run
 
-# ~> NameError
-# ~> undefined local variable or method `run' for main:Object
-# ~>
-# ~> /Users/edzye101/Projects/gSchool/rock-paper-scissors/lib/game.rb:12:in `<main>'
+# >> what is wrong with your code
